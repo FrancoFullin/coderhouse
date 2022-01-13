@@ -1,0 +1,31 @@
+$colorTitulo: Green;
+$colorNormal: blue;
+
+
+h1 {
+    color: $colorTitulo;
+    text-align: center;
+    .item1 {
+        font-style: italic;
+    }
+}
+
+.ppal {
+    .contenido {
+        color: $colorNormal;
+        .item1 {
+            font-style: italic;
+        }
+        .item2 {
+            font-weight: bold;
+        }
+    }
+}
+.ppal2 {
+    .item1{
+        color:red;
+    }
+}
+
+
+

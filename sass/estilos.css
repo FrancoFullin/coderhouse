@@ -1,0 +1,23 @@
+h1 {
+  color: Green;
+  text-align: center;
+}
+h1 .item1 {
+  font-style: italic;
+}
+
+.ppal .contenido {
+  color: blue;
+}
+.ppal .contenido .item1 {
+  font-style: italic;
+}
+.ppal .contenido .item2 {
+  font-weight: bold;
+}
+
+.ppal2 .item1 {
+  color: red;
+}
+
+/*# sourceMappingURL=estilos.css.map */
